@@ -8,7 +8,7 @@
 
     <LinearLayout
         android:layout_width="fill_parent"
-        android:layout_height="99dp"
+        android:layout_height="75dp"
         android:orientation="vertical" android:layout_weight="0.67"
         android:background="@color/colorPrimaryDark"
 
@@ -32,7 +32,7 @@
             />
 
 
-        <!-- caso queira cria metodos para exibir na view descomentar esse trecho
+        <!-- caso queira cria metodos para exibir na view descomentar esse trecho !!
 
                <TextView
                    android:id="@+id/txtInput"
